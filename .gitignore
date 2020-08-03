@@ -1,1 +1,3 @@
-mylog.txt
+/mylog.txt
+*.log
+
